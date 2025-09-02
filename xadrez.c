@@ -26,7 +26,7 @@ int main() {
     float densidade2 = populacao2 / area2;
     float pibPerCapita2 = (pib2 * 1000000000) / populacao2;
 
-    // "Entradas" simuladas (scanf só para constar, não muda nada)
+    // Entrada de dados
     printf("=== Cadastro da Carta 1 ===\n");
     printf("Estado: %s\n", estado1);
     scanf("%*c");
